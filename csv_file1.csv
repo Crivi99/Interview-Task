@@ -1,0 +1,12 @@
+id,name,surname,birth-year,country,yearly-amount,monthly-variation,currency
+10001,Mario,Catozzo,1956,Greece,100000,+100,EUR
+10002,Galileo,Galilei,1564,Italy,200,-20,USD
+10003,Ursula,Le Guin,1929,United States,1234567,+17,USD
+10004,Martin,Odersky,1958,Germany,90345,,EUR
+100023,Anakin,Skywalker,1990,Tatooine,5,+26,ITL
+10005,Darth,Vader,1990,Coruscant,654321,-311,ITL
+10006,,,1975,United States,1450,,USD
+10007,Luigi,Mario,1981,Japan,110,+10,
+10,Jimmy,Ridimmi,1931,Faroe Islands,30,-44,GBP
+10009,Ciccio,Pernacchi,1945,Switzerland,0,+328,
+100,Ranma,Saotome,1996,Japan,3489,+100,EUR
