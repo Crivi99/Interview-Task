@@ -1,1 +1,1 @@
-# Interview-Task
+In order for the script to run you need to have the python file inside a folder with the 2 csv files (the second one is for task 6) that are called csv_file.csv and csv_file1.csv . After that just run the python file in some editor like VS Code or directly from the terminal.
